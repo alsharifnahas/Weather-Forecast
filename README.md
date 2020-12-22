@@ -8,9 +8,9 @@ This web application will provide the current weather with the next five days. A
 
 ## Usage
 
-![Weather Forecast Preview](Assets/images/screen-shot1.PNG)
+![Weather Forecast Preview](assets/images/screen-shot1.PNG)
 
-**Note**: This a link to the actual website: [Work Day Planner Official Website](https://alsharifnahas.github.io/Weather-Forecast/)
+**Note**: This a link to the actual website: [Work Day Planner Official Website](https://alsharifnahas.github.io/Weather-Forecast/.)
 
 ## Liecense
 

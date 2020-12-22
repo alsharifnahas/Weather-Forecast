@@ -34,9 +34,9 @@
                             <div class="form-row">
                                 <div class="form-group">
                                     <label class="mb-2 search-label" for="">Searh for a city:</label>
-                                    <div class="input-group">
+                                    <div class="input-group" style="width: 60%;">
                                         <input class="form-control" type="text" required>
-                                        <button class="btn bg-primary text-white" type="submit"><i
+                                        <button class="btn bg-primary text-white type=" submit"><i
                                                 class="fa fa-search"></i></button>
                                     </div>
                                 </div>
@@ -44,16 +44,23 @@
                         </form>
                     </aside>
                 </div>
-                <div class="container col-8 weather-information-container" style="display: block;">
-                    <section class="border weather-display-container p-2">
-                        <p class="city-name" style="font-weight: bold; font-size: 30px;">
 
-                        </p>
+                <!-- Current weather container -->
+                <div class="container col-8 weather-information-container" style="display: none;">
+                    <section class="border weather-display-container p-2">
+
+                        <h1 class="city-name" style="font-weight: bold; font-size: 30px;">
+
+                        </h1>
+
+
                         <ul class="description">
 
                         </ul>
                     </section>
-                    <section class="container 5-day-weather-container" style="padding: 0px; display: block;">
+
+                    <!-- Five day weather forecat container -->
+                    <section class="container 5-day-weather-container" style="padding: 0px; display: none;">
 
 
                     </section>
