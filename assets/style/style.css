@@ -1,0 +1,30 @@
+.container {
+  margin: 0px;
+}
+.search-label {
+  font-weight: bold;
+}
+
+.description {
+  list-style: none;
+  padding: 0;
+}
+.description li {
+  padding-bottom: 20px;
+}
+.card {
+  font-size: 10px;
+  padding: 0;
+  margin-right: 20px;
+  padding: 5px;
+}
+.card-body {
+  padding: 0;
+}
+.weather5day-title {
+  padding: 0;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-weight: 700;
+  margin-left: 10px;
+}
